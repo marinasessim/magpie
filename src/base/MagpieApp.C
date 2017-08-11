@@ -35,6 +35,7 @@
 
 // Transfers
 #include "MultiAppNeutronicsSpectrumTransfer.h"
+#include "MultiAppPartialFissionRateTransfer.h"
 
 // Meshes
 #include "MyTRIMMesh.h"
